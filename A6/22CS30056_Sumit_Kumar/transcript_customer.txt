@@ -1,0 +1,226 @@
+[11:00 am] Customer 1 arrives (count = 4)
+[11:00 am] Customer 2 arrives (count = 2)
+[11:00 am] Customer 3 arrives (count = 1)
+[11:00 am] Customer 4 arrives (count = 4)
+[11:00 am] Customer 5 arrives (count = 2)
+[11:00 am] Customer 6 arrives (count = 2)
+[11:00 am] Customer 7 arrives (count = 1)
+[11:01 am] 	Customer 1 order placed to waiter U
+[11:01 am] 	Customer 2 order placed to waiter V
+[11:01 am] 	Customer 4 order placed to waiter X
+[11:01 am] 	Customer 3 order placed to waiter W
+[11:01 am] 	Customer 5 order placed to waiter Y
+[11:01 am] 	Customer 6 order placed to waiter U
+[11:01 am] 	Customer 7 order placed to waiter V
+[11:06 am] 		Customer 3 gets food [Waiting time = 5]
+[11:09 am] Customer 8 arrives (count = 1)
+[11:10 am] 	Customer 8 order placed to waiter W
+[11:14 am] Customer 9 arrives (count = 1)
+[11:15 am] 	Customer 9 order placed to waiter X
+[11:21 am] 		Customer 1 gets food [Waiting time = 20]
+[11:21 am] Customer 10 arrives (count = 1)
+[11:22 am] 	Customer 10 order placed to waiter Y
+[11:26 am] 		Customer 4 gets food [Waiting time = 25]
+[11:28 am] Customer 11 arrives (count = 1)
+[11:28 am] 					Customer 11 leaves ( no empty table )
+[11:31 am] 		Customer 2 gets food [Waiting time = 30]
+[11:31 am] Customer 12 arrives (count = 1)
+[11:31 am] 					Customer 12 leaves ( no empty table )
+[11:32 am] Customer 13 arrives (count = 1)
+[11:32 am] 					Customer 13 leaves ( no empty table )
+[11:36 am] 			Customer 3 finishes eating and leaves
+[11:36 am] 		Customer 5 gets food [Waiting time = 35]
+[11:35 am] Customer 14 arrives (count = 1)
+[11:36 am] 	Customer 14 order placed to waiter U
+[11:37 am] Customer 15 arrives (count = 1)
+[11:37 am] 					Customer 15 leaves ( no empty table )
+[11:41 am] 		Customer 6 gets food [Waiting time = 40]
+[11:41 am] 		Customer 7 gets food [Waiting time = 40]
+[11:46 am] 		Customer 8 gets food [Waiting time = 36]
+[11:44 am] Customer 16 arrives (count = 2)
+[11:44 am] 					Customer 16 leaves ( no empty table )
+[11:46 am] 		Customer 9 gets food [Waiting time = 31]
+[11:51 am] 			Customer 1 finishes eating and leaves
+[11:51 am] 		Customer 10 gets food [Waiting time = 29]
+[11:51 am] 		Customer 14 gets food [Waiting time = 15]
+[11:51 am] Customer 17 arrives (count = 1)
+[11:52 am] 	Customer 17 order placed to waiter V
+[11:56 am] 			Customer 4 finishes eating and leaves
+[11:56 am] Customer 18 arrives (count = 2)
+[11:57 am] 	Customer 18 order placed to waiter W
+[11:57 am] 		Customer 17 gets food [Waiting time = 5]
+[12:01 pm] 			Customer 2 finishes eating and leaves
+[11:59 am] Customer 19 arrives (count = 1)
+[12:00 pm] [12:00 pm] 	Customer 19 order placed to waiter X
+Customer 20 arrives (count = 2)
+[12:00 pm] 					Customer 20 leaves ( no empty table )
+[12:02 pm] Customer 21 arrives (count = 3)
+[12:02 pm] 					Customer 21 leaves ( no empty table )
+[12:06 pm] 			Customer 5 finishes eating and leaves
+[12:07 pm] 		Customer 19 gets food [Waiting time = 7]
+[12:05 pm] Customer 22 arrives (count = 4)
+[12:06 pm] 	Customer 22 order placed to waiter Y
+[12:07 pm] 		Customer 18 gets food [Waiting time = 10]
+[12:11 pm] 			Customer 6 finishes eating and leaves
+[12:11 pm] 			Customer 7 finishes eating and leaves
+[12:16 pm] 			Customer 8 finishes eating and leaves
+[12:16 pm] 			Customer 9 finishes eating and leaves
+[12:14 pm] Customer 23 arrives (count = 1)
+[12:15 pm] 	Customer 23 order placed to waiter U
+[12:15 pm] Customer 24 arrives (count = 3)
+[12:15 pm] Customer 25 arrives (count = 2)
+[12:16 pm] 	Customer 24 order placed to waiter V
+[12:16 pm] 	Customer 25 order placed to waiter W
+[12:21 pm] 			Customer 10 finishes eating and leaves
+[12:21 pm] 			Customer 14 finishes eating and leaves
+[12:22 pm] 		Customer 23 gets food [Waiting time = 7]
+[12:22 pm] Customer 26 arrives (count = 1)
+[12:23 pm] 	Customer 26 order placed to waiter X
+[12:27 pm] 			Customer 17 finishes eating and leaves
+[12:28 pm] 		Customer 22 gets food [Waiting time = 22]
+[12:27 pm] Customer 27 arrives (count = 2)
+[12:28 pm] 	Customer 27 order placed to waiter Y
+[12:37 pm] 			Customer 19 finishes eating and leaves
+[12:37 pm] 		Customer 24 gets food [Waiting time = 21]
+[12:35 pm] Customer 28 arrives (count = 1)
+[12:37 pm] 			Customer 18 finishes eating and leaves
+[12:38 pm] 		Customer 25 gets food [Waiting time = 22]
+[12:36 pm] 	Customer 28 order placed to waiter U
+[12:42 pm] 		Customer 26 gets food [Waiting time = 19]
+[12:44 pm] Customer 29 arrives (count = 1)
+[12:47 pm] 		Customer 28 gets food [Waiting time = 11]
+[12:45 pm] 	Customer 29 order placed to waiter V
+[12:48 pm] 		Customer 27 gets food [Waiting time = 20]
+[12:52 pm] 			Customer 23 finishes eating and leaves
+[12:50 pm] Customer 30 arrives (count = 3)
+[12:52 pm] 		Customer 29 gets food [Waiting time = 7]
+[12:51 pm] 	Customer 30 order placed to waiter W
+[12:52 pm] Customer 31 arrives (count = 2)
+[12:53 pm] 	Customer 31 order placed to waiter X
+[12:54 pm] Customer 32 arrives (count = 1)
+[12:58 pm] 			Customer 22 finishes eating and leaves
+[12:55 pm] 	Customer 32 order placed to waiter Y
+[12:58 pm] Customer 33 arrives (count = 2)
+[12:59 pm] 	Customer 33 order placed to waiter U
+[01:00 pm] Customer 34 arrives (count = 1)
+[01:00 pm] 					Customer 34 leaves ( no empty table )
+[01:04 pm] 		Customer 31 gets food [Waiting time = 11]
+[01:03 pm] Customer 35 arrives (count = 1)
+[01:03 pm] 					Customer 35 leaves ( no empty table )
+[01:03 pm] Customer 36 arrives (count = 1)
+[01:03 pm] 					Customer 36 leaves ( no empty table )
+[01:07 pm] 			Customer 24 finishes eating and leaves
+[01:03 pm] Customer 37 arrives (count = 2)
+[01:08 pm] 			Customer 25 finishes eating and leaves
+[01:04 pm] 	Customer 37 order placed to waiter V
+[01:08 pm] 		Customer 30 gets food [Waiting time = 17]
+[01:09 pm] 		Customer 32 gets food [Waiting time = 14]
+[01:12 pm] 			Customer 26 finishes eating and leaves
+[01:12 pm] Customer 38 arrives (count = 1)
+[01:17 pm] 			Customer 28 finishes eating and leaves
+[01:13 pm] 	Customer 38 order placed to waiter W
+[01:18 pm] 			Customer 27 finishes eating and leaves
+[01:18 pm] 		Customer 33 gets food [Waiting time = 19]
+[01:19 pm] 		Customer 37 gets food [Waiting time = 15]
+[01:22 pm] 			Customer 29 finishes eating and leaves
+[01:23 pm] 		Customer 38 gets food [Waiting time = 10]
+[01:21 pm] Customer 39 arrives (count = 1)
+[01:22 pm] 	Customer 39 order placed to waiter X
+[01:29 pm] 		Customer 39 gets food [Waiting time = 7]
+[01:30 pm] Customer 40 arrives (count = 2)
+[01:31 pm] 	Customer 40 order placed to waiter Y
+[01:34 pm] 			Customer 31 finishes eating and leaves
+[01:33 pm] Customer 41 arrives (count = 1)
+[01:34 pm] 	Customer 41 order placed to waiter U
+[01:38 pm] 			Customer 30 finishes eating and leaves
+[01:39 pm] 			Customer 32 finishes eating and leaves
+[01:40 pm] 		Customer 41 gets food [Waiting time = 6]
+[01:40 pm] Customer 42 arrives (count = 1)
+[01:41 pm] 		Customer 40 gets food [Waiting time = 10]
+[01:41 pm] 	Customer 42 order placed to waiter V
+[01:48 pm] 			Customer 33 finishes eating and leaves
+[01:46 pm] Customer 43 arrives (count = 1)
+[01:46 pm] 		Customer 42 gets food [Waiting time = 5]
+[01:49 pm] 			Customer 37 finishes eating and leaves
+[01:47 pm] 	Customer 43 order placed to waiter W
+[01:53 pm] 			Customer 38 finishes eating and leaves
+[01:50 pm] Customer 44 arrives (count = 3)
+[01:50 pm] Customer 45 arrives (count = 1)
+[01:51 pm] 	Customer 44 order placed to waiter X
+[01:51 pm] 	Customer 45 order placed to waiter Y
+[01:51 pm] Customer 46 arrives (count = 1)
+[01:54 pm] 		Customer 43 gets food [Waiting time = 7]
+[01:52 pm] 	Customer 46 order placed to waiter U
+[01:59 pm] 			Customer 39 finishes eating and leaves
+[01:59 pm] 		Customer 45 gets food [Waiting time = 8]
+[01:58 pm] Customer 47 arrives (count = 1)
+[01:59 pm] 	Customer 47 order placed to waiter V
+[02:04 pm] 		Customer 46 gets food [Waiting time = 12]
+[02:09 pm] 		Customer 44 gets food [Waiting time = 18]
+[02:06 pm] Customer 48 arrives (count = 2)
+[02:06 pm] Customer 49 arrives (count = 1)
+[02:09 pm] 		Customer 47 gets food [Waiting time = 10]
+[02:07 pm] 	Customer 48 order placed to waiter W
+[02:10 pm] [02:07 pm] 			Customer 41 finishes eating and leaves
+Customer 50 arrives (count = 2)
+[02:07 pm] 	Customer 49 order placed to waiter X
+[02:08 pm] 	Customer 50 order placed to waiter Y
+[02:11 pm] 			Customer 40 finishes eating and leaves
+[02:10 pm] Customer 51 arrives (count = 1)
+[02:11 pm] 	Customer 51 order placed to waiter U
+[02:15 pm] 		Customer 49 gets food [Waiting time = 8]
+[02:16 pm] 			Customer 42 finishes eating and leaves
+[02:20 pm] 		Customer 48 gets food [Waiting time = 13]
+[02:18 pm] Customer 52 arrives (count = 2)
+[02:18 pm] Customer 53 arrives (count = 1)
+[02:18 pm] 					Customer 53 leaves ( no empty table )
+[02:24 pm] 			Customer 43 finishes eating and leaves
+[02:19 pm] 	Customer 52 order placed to waiter V
+[02:25 pm] 		Customer 51 gets food [Waiting time = 14]
+[02:25 pm] 		Customer 50 gets food [Waiting time = 17]
+[02:29 pm] 			Customer 45 finishes eating and leaves
+[02:26 pm] Customer 54 arrives (count = 1)
+[02:27 pm] 	Customer 54 order placed to waiter W
+[02:34 pm] 			Customer 46 finishes eating and leaves
+[02:30 pm] Customer 55 arrives (count = 1)
+[02:35 pm] 		Customer 52 gets food [Waiting time = 16]
+[02:31 pm] 	Customer 55 order placed to waiter X
+[02:31 pm] Customer 56 arrives (count = 3)
+[02:39 pm] 			Customer 44 finishes eating and leaves
+[02:32 pm] 	Customer 56 order placed to waiter Y
+[02:39 pm] 		Customer 54 gets food [Waiting time = 12]
+[02:39 pm] 			Customer 47 finishes eating and leaves
+[02:40 pm] 		Customer 55 gets food [Waiting time = 9]
+[02:39 pm] Customer 57 arrives (count = 1)
+[02:45 pm] 			Customer 49 finishes eating and leaves
+[02:40 pm] 	Customer 57 order placed to waiter U
+[02:43 pm] Customer 58 arrives (count = 1)
+[02:50 pm] 			Customer 48 finishes eating and leaves
+[02:44 pm] 	Customer 58 order placed to waiter V
+[02:50 pm] 		Customer 57 gets food [Waiting time = 10]
+[02:46 pm] Customer 59 arrives (count = 1)
+[02:54 pm] 		Customer 56 gets food [Waiting time = 22]
+[02:47 pm] 	Customer 59 order placed to waiter W
+[02:55 pm] 			Customer 51 finishes eating and leaves
+[02:55 pm] 			Customer 50 finishes eating and leaves
+[02:55 pm] 		Customer 58 gets food [Waiting time = 11]
+[02:52 pm] Customer 60 arrives (count = 2)
+[02:59 pm] 		Customer 59 gets food [Waiting time = 12]
+[02:53 pm] 	Customer 60 order placed to waiter X
+[03:05 pm] 			Customer 52 finishes eating and leaves
+[03:00 pm] Customer 61 arrives (count = 1)
+[03:00 pm] 					Customer 61 leaves ( late arrival )
+[03:09 pm] 			Customer 54 finishes eating and leaves
+[03:02 pm] Customer 62 arrives (count = 2)
+[03:02 pm] 					Customer 62 leaves ( late arrival )
+[03:10 pm] 		Customer 60 gets food [Waiting time = 17]
+[03:10 pm] 			Customer 55 finishes eating and leaves
+[03:08 pm] Customer 63 arrives (count = 1)
+[03:08 pm] 					Customer 63 leaves ( late arrival )
+[03:20 pm] 			Customer 57 finishes eating and leaves
+[03:14 pm] Customer 64 arrives (count = 2)
+[03:14 pm] 					Customer 64 leaves ( late arrival )
+[03:24 pm] 			Customer 56 finishes eating and leaves
+[03:25 pm] 			Customer 58 finishes eating and leaves
+[03:29 pm] 			Customer 59 finishes eating and leaves
+[03:40 pm] 			Customer 60 finishes eating and leaves

@@ -1,0 +1,127 @@
+gcc -o boating boating.c -lpthread
+./boating 5 20
+Boat 1 Ready
+Boat 3 Ready
+Boat 2 Ready
+Boat 4 Ready
+Visitor 2 Starts sightseeing for 37 minutes
+Boat 5 Ready
+Visitor 1 Starts sightseeing for 55 minutes
+Visitor 3 Starts sightseeing for 108 minutes
+Visitor 4 Starts sightseeing for 98 minutes
+Visitor 7 Starts sightseeing for 69 minutes
+Visitor 5 Starts sightseeing for 86 minutes
+Visitor 6 Starts sightseeing for 58 minutes
+Visitor 8 Starts sightseeing for 32 minutes
+Visitor 11 Starts sightseeing for 116 minutes
+Visitor 9 Starts sightseeing for 99 minutes
+Visitor 12 Starts sightseeing for 100 minutes
+Visitor 10 Starts sightseeing for 59 minutes
+Visitor 14 Starts sightseeing for 55 minutes
+Visitor 16 Starts sightseeing for 47 minutes
+Visitor 17 Starts sightseeing for 56 minutes
+Visitor 15 Starts sightseeing for 59 minutes
+Visitor 20 Starts sightseeing for 111 minutes
+Visitor 18 Starts sightseeing for 83 minutes
+Visitor 13 Starts sightseeing for 70 minutes
+Visitor 19 Starts sightseeing for 101 minutes
+Visitor 8 Ready to ride a boat (ride time = 45)
+Visitor 8 Finds boat 1
+Boat 1 Start of ride for visitor 8
+Visitor 2 Ready to ride a boat (ride time = 36)
+Visitor 2 Finds boat 2
+Visitor 16 Ready to ride a boat (ride time = 39)
+Visitor 16 Finds boat 3
+Boat 2 Start of ride for visitor 2
+Boat 3 Start of ride for visitor 16
+Visitor 1 Ready to ride a boat (ride time = 41)
+Visitor 1 Finds boat 4
+Boat 4 Start of ride for visitor 1
+Visitor 14 Ready to ride a boat (ride time = 31)
+Visitor 14 Finds boat 5
+Boat 5 Start of ride for visitor 14
+Visitor 17 Ready to ride a boat (ride time = 45)
+Visitor 6 Ready to ride a boat (ride time = 33)
+Visitor 10 Ready to ride a boat (ride time = 37)
+Visitor 15 Ready to ride a boat (ride time = 28)
+Visitor 7 Ready to ride a boat (ride time = 34)
+Visitor 13 Ready to ride a boat (ride time = 47)
+Visitor 8 Leaving
+Boat 1 End of ride for visitor 8 (ride time = 45)
+Visitor 17 Finds boat 1
+Boat 1 Start of ride for visitor 17
+Visitor 2 Leaving
+Boat 2 End of ride for visitor 2 (ride time = 36)
+Visitor 18 Ready to ride a boat (ride time = 51)
+Visitor 6 Finds boat 2
+Boat 2 Start of ride for visitor 6
+Visitor 5 Ready to ride a boat (ride time = 47)
+Visitor 14 Leaving
+Boat 3 End of ride for visitor 16 (ride time = 39)
+Boat 5 End of ride for visitor 14 (ride time = 31)
+Visitor 16 Leaving
+Visitor 15 Finds boat 5
+Boat 5 Start of ride for visitor 15
+Visitor 10 Finds boat 3
+Boat 3 Start of ride for visitor 10
+Boat 4 End of ride for visitor 1 (ride time = 41)
+Visitor 1 Leaving
+Visitor 7 Finds boat 4
+Boat 4 Start of ride for visitor 7
+Visitor 4 Ready to ride a boat (ride time = 52)
+Visitor 9 Ready to ride a boat (ride time = 18)
+Visitor 12 Ready to ride a boat (ride time = 21)
+Visitor 19 Ready to ride a boat (ride time = 60)
+Visitor 3 Ready to ride a boat (ride time = 43)
+Visitor 20 Ready to ride a boat (ride time = 36)
+Visitor 15 Leaving
+Boat 5 End of ride for visitor 15 (ride time = 28)
+Visitor 13 Finds boat 5
+Boat 5 Start of ride for visitor 13
+Visitor 11 Ready to ride a boat (ride time = 41)
+Boat 2 End of ride for visitor 6 (ride time = 33)
+Visitor 6 Leaving
+Visitor 18 Finds boat 2
+Boat 2 Start of ride for visitor 18
+Boat 1 End of ride for visitor 17 (ride time = 45)
+Visitor 5 Finds boat 1
+Visitor 17 Leaving
+Boat 1 Start of ride for visitor 5
+Visitor 10 Leaving
+Boat 3 End of ride for visitor 10 (ride time = 37)
+Visitor 4 Finds boat 3
+Boat 3 Start of ride for visitor 4
+Visitor 7 Leaving
+Boat 4 End of ride for visitor 7 (ride time = 34)
+Visitor 9 Finds boat 4
+Boat 4 Start of ride for visitor 9
+Visitor 9 Leaving
+Boat 4 End of ride for visitor 9 (ride time = 18)
+Visitor 12 Finds boat 4
+Boat 4 Start of ride for visitor 12
+Visitor 13 Leaving
+Boat 5 End of ride for visitor 13 (ride time = 47)
+Visitor 19 Finds boat 5
+Boat 5 Start of ride for visitor 19
+Visitor 18 Leaving
+Boat 2 End of ride for visitor 18 (ride time = 51)
+Visitor 3 Finds boat 2
+Boat 2 Start of ride for visitor 3
+Visitor 12 Leaving
+Boat 4 End of ride for visitor 12 (ride time = 21)
+Visitor 20 Finds boat 4
+Visitor 5 Leaving
+Boat 4 Start of ride for visitor 20
+Boat 1 End of ride for visitor 5 (ride time = 47)
+Visitor 11 Finds boat 1
+Boat 1 Start of ride for visitor 11
+Visitor 4 Leaving
+Boat 3 End of ride for visitor 4 (ride time = 52)
+Visitor 20 Leaving
+Boat 4 End of ride for visitor 20 (ride time = 36)
+Visitor 11 Leaving
+Boat 1 End of ride for visitor 11 (ride time = 41)
+Visitor 3 Leaving
+Boat 2 End of ride for visitor 3 (ride time = 43)
+Boat 5 End of ride for visitor 19 (ride time = 60)
+Visitor 19 Leaving
